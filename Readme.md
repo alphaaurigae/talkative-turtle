@@ -1,13 +1,18 @@
 # Talkative Turtle
 
 > Generated "mostly*¹" chatgpt :) 
+
 > (*¹ some mistakes fixed manually but probably could've had chatgpt do this too with the correct questions ...
+
 > Had to start over a few times, redifine questions, start new conversations, paste existing previously generated code and ask for suggestions to archive target x.
+
 > After competition of the setup asked chatgpt to move functions to separate files - so ended up wit ha single-file setup and the multi-file setup in src.
 
 
 Talkative Turtle is a command-line utility that allows users to input data from different sources and output it to the console. 
 The program is written in C++ and uses the Boost C++ library to parse command-line arguments.
+
+![talkative-turtle](https://github.com/talkative-turtle/img/1.png "talkative-turtle")
 
 ## Usage
 > The program includes three options:
