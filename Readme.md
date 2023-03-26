@@ -1,6 +1,6 @@
 # Talkative Turtle
 
-> Generated "mostly*¹" chatgpt :) 
+> Generated "mostly*¹" with chatgpt :) 
 
 > (*¹ some mistakes fixed manually but probably could've had chatgpt do this too with the correct questions ...
 
