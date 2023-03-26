@@ -12,7 +12,7 @@
 Talkative Turtle is a command-line utility that allows users to input data from different sources and output it to the console. 
 The program is written in C++ and uses the Boost C++ library to parse command-line arguments.
 
-![talkative-turtle](https://github.com/talkative-turtle/img/1.png "talkative-turtle")
+![talkative-turtle](https://github.com/alphaaurigae/talkative-turtle/img/1.png "talkative-turtle")
 
 ## Usage
 > The program includes three options:
